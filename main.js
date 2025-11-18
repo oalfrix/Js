@@ -7,3 +7,9 @@ console.log(name);
     const isStudent = false; // Boolean
     const address = null; // Null
     let phoneNumber; // Undefined
+
+    console.log(typeof name); // "string"
+    console.log(typeof age); // "number"
+    console.log(typeof isStudent); // "boolean"
+    console.log(typeof address); // "object"
+    console.log(typeof phoneNumber); // "undefined" --- IGNORE ---
