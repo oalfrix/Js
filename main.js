@@ -23,4 +23,31 @@ console.log(name);
     let greeting = `Hello, my name is ${name} and I am ${age} years old.`;
     console.log(greeting); // "Hello, my name is Alice and I am 30 years old."
 
-    //string properties and methods 
+//objects
+    const person = {
+        name: 'Alice',
+        age: 30,
+        isStudent: false,
+        address: {
+            street: '123 Main St',
+            city: 'Wonderland'
+            telephone: '123-456-7890'
+        }
+    };
+
+    console.log(person.name); // "Alice"
+    console.log(person.address.city); // "Wonderland"   
+
+    //Notation
+     // 1. Dot Notaition
+     
+     person.age = 31;
+     console.log(person.age); // 31
+
+        // 2. Bracket Notation
+        person['isStudent'] = true;
+        console.log(person['isStudent']); // true
+
+        person['name'] = 'James';
+        console.log(person['name']); // "James"
+        

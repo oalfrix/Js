@@ -7,15 +7,35 @@
 
 *Const - Can't be changed or reassigned
 
+# Features of a Variable 
+    1. it cannot be a reserved keyword
+        e.g if,typeof,return,const,let
+    2. They are case-sensitive
+    3. Should not start with a number
+    4. Cannot contain a space or an hyphen
+
 # 1 Data Types
    1.1 Primitive Data Types/Value 
        - data is assigned directly to the variable
-       -strings,number,boolean,undefined,null,symbols
+       - strings,number,boolean,undefined,null,symbols
     
     * We use typeof to check type of variable
 
+    2.1 Reference Data Types
+        - Describes about the variable
+
+        eg 2.1.1 OBJECT
+            - used when dealing with multiple related variables
+            - Object reteral are presented by curly braces{} which contain KEYS (properties of the object)
+
+             **Changing Object Properties
+                1. Dot Notation
+                    - 
+
+
     
 # Concatenation
+    This is the combanation of two strings together
 
 
     
