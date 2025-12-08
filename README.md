@@ -20,6 +20,9 @@
        - strings,number,boolean,undefined,null,symbols
     
     * We use typeof to check type of variable
+        
+        eg  const name = 'tappy';
+            console.log(typeof name);
 
     2.1 Reference Data Types
         - Describes about the variable
@@ -31,8 +34,6 @@
              **Changing Object Properties
                 1. Dot Notation
                     - 
-
-
     
 # Concatenation
     This is the combanation of two strings together
