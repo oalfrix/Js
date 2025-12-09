@@ -69,11 +69,26 @@ console.log(name);
         // Array length
         console.log(formats.length); // 3
 
-
 // functions
     function greet(userName) {
         return `Hello, ${userName}!`;
     }
     
+    console.log(greet('Alice')); // "Hello, Alice!"
+    console.log(greet('Bob')); // "Hello, Bob!" 
 
-        
+    function name() {
+        console.log('Hello' + ' ' + name);  
+    }
+    name('John'); // "Hello John" 
+
+
+// Calling the function
+    name(); // "Hello Alice"   
+
+// Function parameters and arguments
+    function add(a, b) {
+        return a + b;
+    }
+    console.log(add(5, 3)); // 8
+    console.log(add(10, 20)); // 30
