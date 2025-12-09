@@ -40,7 +40,7 @@
                     - 
 
             2.1.2 ARRAYS
-            - used when dealing with a list of objects a user want to pick from.
+            - used to store a list
             - Array Literal are presented by square breckets[]
              
 
