@@ -13,6 +13,7 @@
     2. They are case-sensitive
     3. Should not start with a number
     4. Cannot contain a space or an hyphen
+    5. Default value of variables is undefined
 
 # 1 Data Types
    1.1 Primitive Data Types/Value 
