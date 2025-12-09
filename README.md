@@ -48,6 +48,7 @@
                 eg 
                     let studentNames = ['James', 'Mary', 'Tom']
                     console.log(studentNames[1])
+            - The types of objects in an array are dynamic(they can change)
              
 
 # Concatenation
