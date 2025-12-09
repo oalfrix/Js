@@ -36,9 +36,11 @@
 
 
                 2. Bracket Notation
-                
+
                     - 
-    
+
+            2.1.2 ARRAYS
+            
 # Concatenation
     This is the combanation of two strings together
 
