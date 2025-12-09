@@ -33,10 +33,14 @@
 
              **Changing Object Properties
                 1. Dot Notation
+
+
+                2. Bracket Notation
+                
                     - 
     
 # Concatenation
     This is the combanation of two strings together
 
-
+ 
     
