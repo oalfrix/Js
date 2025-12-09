@@ -24,6 +24,7 @@ console.log(name);
     console.log(greeting); // "Hello, my name is Alice and I am 30 years old."
 
 // 1 objects
+
     const person = {
         name: 'Alice',
         age: 30,
@@ -52,7 +53,8 @@ console.log(name);
         console.log(person['name']); // "James"
 
         
-        // 2 arrays
+ // 2 arrays
+
         let formats = ['bold', 'italic', 'underline'];
         console.log(formats); // ['bold', 'italic', 'underline']
 
@@ -66,3 +68,5 @@ console.log(name);
 
         // Array length
         console.log(formats.length); // 3
+
+        
