@@ -23,7 +23,7 @@ console.log(name);
     let greeting = `Hello, my name is ${name} and I am ${age} years old.`;
     console.log(greeting); // "Hello, my name is Alice and I am 30 years old."
 
-//objects
+// 1 objects
     const person = {
         name: 'Alice',
         age: 30,
@@ -50,4 +50,12 @@ console.log(name);
 
         person['name'] = 'James';
         console.log(person['name']); // "James"
+
         
+        // 2 arrays
+        let formats = ['bold', 'italic', 'underline'];
+        console.log(formats); // ['bold', 'italic', 'underline']
+
+        // Accessing array elements
+        console.log(formats[0]); // 'bold'
+        console.log(formats[2]); // 'underline' 
