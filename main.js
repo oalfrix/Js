@@ -69,4 +69,11 @@ console.log(name);
         // Array length
         console.log(formats.length); // 3
 
+
+// functions
+    function greet(userName) {
+        return `Hello, ${userName}!`;
+    }
+    
+
         
