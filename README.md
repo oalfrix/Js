@@ -40,7 +40,10 @@
                     - 
 
             2.1.2 ARRAYS
-            
+            - used when dealing with a list of objects a user want to pick from.
+            - Array Literal are presented by square breckets[]
+             
+
 # Concatenation
     This is the combanation of two strings together
 
