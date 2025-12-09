@@ -92,3 +92,28 @@ console.log(name);
     }
     console.log(add(5, 3)); // 8
     console.log(add(10, 20)); // 30
+
+// Performing operations inside functions
+    function multiply(x, y) {
+        return x * y;
+    } 
+    console.log(multiply(4, 5)); // 20
+    console.log(multiply(7, 6)); // 42
+
+// Function with no parameters
+    function sayHello() {
+        return "Hello, World!";
+    }
+    console.log(sayHello()); // "Hello, World!"
+
+// Function with default parameters
+    function greetUser(userName = "Guest") {
+        return `Welcome, ${userName}!`;
+    }
+    console.log(greetUser()); // "Welcome, Guest!"
+    console.log(greetUser("Alice")); // "Welcome, Alice!"
+
+// Calculating value inside function
+    function calculateArea(length, width) {
+        return length * width;
+    }
