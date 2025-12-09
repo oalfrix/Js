@@ -43,6 +43,10 @@
             - used to store a list
             - Array Literal are presented by square breckets[]
             - each element as an index that determines its position in an array
+            - The first elemnt in an array is indexed from zero and not one
+                eg 
+                    let studentNames = ['James', 'Mary', 'Tom']
+                    console.log(studentNames[1])
              
 
 # Concatenation
