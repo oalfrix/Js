@@ -51,6 +51,7 @@
                     console.log(studentNames[1])
             - The types of objects in an array are dynamic(they can change) and ca
             - Different data type can be stored in an array
+            - Square Brackets Represent an Empty Array
              
 
 # Concatenation
