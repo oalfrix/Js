@@ -56,4 +56,10 @@
     This is the combanation of two strings together
 
  
+
+
+# Functions
+    - Set of statement that perfomce a task or calculate value
+    - Declared by function keyword
+    - Parenthesis are used to follow syntax
     
