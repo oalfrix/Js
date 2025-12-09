@@ -42,6 +42,7 @@
             2.1.2 ARRAYS
             - used to store a list
             - Array Literal are presented by square breckets[]
+            - each element as an index that determines its position in an array
              
 
 # Concatenation
