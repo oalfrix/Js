@@ -40,7 +40,7 @@
                     - 
 
             2.1.2 ARRAYS
-            - used to store a list
+            - used to represent alist of items
             - Array Literal are presented by square breckets[]
             - each element as an index that determines its position in an array
             - The first elemnt in an array is indexed from zero and not one.
@@ -48,7 +48,8 @@
                 eg 
                     let studentNames = ['James', 'Mary', 'Tom']
                     console.log(studentNames[1])
-            - The types of objects in an array are dynamic(they can change)
+            - The types of objects in an array are dynamic(they can change) and ca
+            - Different data type can be stored in an array
              
 
 # Concatenation
