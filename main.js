@@ -59,3 +59,10 @@ console.log(name);
         // Accessing array elements
         console.log(formats[0]); // 'bold'
         console.log(formats[2]); // 'underline' 
+
+        // Modifying array elements
+        formats[1] = 'strikethrough';
+        console.log(formats); // ['bold', 'strikethrough', 'underline']
+
+        // Array length
+        console.log(formats.length); // 3

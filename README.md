@@ -43,7 +43,8 @@
             - used to store a list
             - Array Literal are presented by square breckets[]
             - each element as an index that determines its position in an array
-            - The first elemnt in an array is indexed from zero and not one
+            - The first elemnt in an array is indexed from zero and not one.
+            - The Length of an array is determined by the no of elements in an array
                 eg 
                     let studentNames = ['James', 'Mary', 'Tom']
                     console.log(studentNames[1])
