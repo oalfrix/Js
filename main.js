@@ -11,7 +11,7 @@ console.log(name);
     console.log(typeof name); // "string"
     console.log(typeof age); // "number"
     console.log(typeof isStudent); // "boolean"
-    console.log(typeof address); /  / "object"
+    console.log(typeof address);  // "object"
     console.log(typeof phoneNumber); // "undefined"
 
 
@@ -32,7 +32,7 @@ console.log(name);
         address: {
             street: '123 Main St',
             city: 'Wonderland'
-            telephone: '123-456-7890'
+            phone: '123-456-7890'
         }
     };
 
