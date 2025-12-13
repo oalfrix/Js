@@ -39,8 +39,13 @@ console.log(name);
     console.log(remainder); // 0
 
 
-    let age = 30;    age += 1; // Increment age by 1
-    console.log(age); // 31
+    let age = 39;
+    age += 1; // age = age + 1 increment by 1
+    console.log(age); // 40
+    age -= 2; // age = age - 2 decrement by 2
+    console.log(age); // 38
+
+
 
 // Concatenation
     let fullName = name + " Smith";
