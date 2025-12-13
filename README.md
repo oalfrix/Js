@@ -61,6 +61,16 @@
     - Increment Operators eg. age++; increase age by one
     - Decrement Operators eg. age--; decrease age by one 
 
+# Comaprison Operators
+    - Greater Than >
+    - Less Than <
+    - Greater Than 0r equal to >=
+    - Less Than or equal to <=
+    - Not Equal To !=
+
+# Strict Equality and Strict inequality
+    - Strict Equality Checks if both data type and data are the same if not it gives FALSE
+    - Strict Inequality checks if both the data type and data are not the same and it gives TRUE and FALSE if they are the same
              
 
 # Concatenation
