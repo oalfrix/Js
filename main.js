@@ -15,6 +15,33 @@ console.log(name);
     console.log(typeof phoneNumber); // "undefined"
 
 
+//Operations with Strings and Numbers
+    let a = 10;
+    let b = 5;
+    let sum = a + b;
+    console.log(sum); // 15
+
+    let difference = a - b;
+    console.log(difference); // 5
+
+    let product = a * b;
+    console.log(product); // 50
+
+    let quotient = a / b;
+    console.log(quotient); // 2
+
+    //exponentiation - raised to power
+    let power = a ** b;
+    console.log(power); // 1000000
+
+    // Modulus
+    let remainder = a % b;
+    console.log(remainder); // 0
+
+
+    let age = 30;    age += 1; // Increment age by 1
+    console.log(age); // 31
+
 // Concatenation
     let fullName = name + " Smith";
     console.log(fullName); // "Alice Smith"
