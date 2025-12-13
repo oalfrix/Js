@@ -56,13 +56,19 @@ console.log(name);
     // comparison operators
     let a = 10;
     let b = 5;
+    
+    // Greater than, Less than, Greater than or equal to, Less than or equal to, Equal to, Not equal to
     console.log(a > b); // true
     console.log(a < b); // false
     console.log(a >= b); // true
     console.log(a <= b); // false
-    console.log(a === b); // false
+    console.log(a == b); // false
     console.log(a !== b); // true
-    
+
+    //stict equality and strict inequality
+    console.log(a === b); // false
+    console.log(10 !== '10'); // true
+
 
 
 
