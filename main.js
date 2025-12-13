@@ -33,7 +33,7 @@ console.log(name);
     //exponentiation - raised to power
     let power = a ** b;
     console.log(power); // 1000000
-
+ 
     // Modulus
     let remainder = a % b;
     console.log(remainder); // 0

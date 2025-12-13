@@ -53,6 +53,12 @@
             - Different data type can be stored in an array
             - Square Brackets Represent an Empty Array
 
+# Opertors
+
+    - Modulus calculate remainder of a division operator
+    
+    - Increment Operators eg. age++; increase age by one
+    - Decrement Operators eg. age--; decrease age by one 
 
              
 
