@@ -45,6 +45,25 @@ console.log(name);
     age -= 2; // age = age - 2 decrement by 2
     console.log(age); // 38
 
+    // increment operator
+    age++;
+    console.log(age); // 39
+
+    // decrement operator
+    age--;
+    console.log(age); // 38
+
+    // comparison operators
+    let a = 10;
+    let b = 5;
+    console.log(a > b); // true
+    console.log(a < b); // false
+    console.log(a >= b); // true
+    console.log(a <= b); // false
+    console.log(a === b); // false
+    console.log(a !== b); // true
+    
+
 
 
 // Concatenation

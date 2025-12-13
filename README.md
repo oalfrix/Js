@@ -56,6 +56,7 @@
 # Opertors
 
     - Modulus calculate remainder of a division operator
+    - Exponentioation is the number raised to a power of        something
     
     - Increment Operators eg. age++; increase age by one
     - Decrement Operators eg. age--; decrease age by one 
