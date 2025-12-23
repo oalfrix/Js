@@ -180,3 +180,12 @@ console.log(name);
     console.log(`Hello, ${userName}!`);
     const age = prompt("Enter your age:");
     console.log(`You are ${age} years old.`);
+
+    let username;
+
+    document.getElementById("submitBtn").onclick = function() {
+        username = document.getElementById("usernameInput").value;
+        console.log(`Username entered: ${username}`);
+
+        document.getElementById("welcome").textContent = `Welcome, ${username}!`;
+    }
