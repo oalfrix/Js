@@ -105,7 +105,7 @@ console.log(name);
         // 2. Bracket Notation
         person['isStudent'] = true;
         console.log(person['isStudent']); // true
-
+ 
         person['name'] = 'James';
         console.log(person['name']); // "James"
 
@@ -148,7 +148,7 @@ console.log(name);
         return a + b;
     }
     console.log(add(5, 3)); // 8
-    console.log(add(10, 20)); // 30
+    console.log(add(10, 20)); // 30 
 
 // Performing operations inside functions
     function multiply(x, y) {
@@ -166,7 +166,7 @@ console.log(name);
 // Function with default parameters
     function greetUser(userName = "Guest") {
         return `Welcome, ${userName}!`;
-    }
+    } 
     console.log(greetUser()); // "Welcome, Guest!"
     console.log(greetUser("Alice")); // "Welcome, Alice!"
 
@@ -174,3 +174,9 @@ console.log(name);
     function calculateArea(length, width) {
         return length * width;
     }
+
+// user input
+    const userName = prompt("Enter your name:");
+    console.log(`Hello, ${userName}!`);
+    const age = prompt("Enter your age:");
+    console.log(`You are ${age} years old.`);
