@@ -184,7 +184,7 @@ console.log(name);
     let username;
 
     document.getElementById("submitBtn").onclick = function() {
-        username = document.getElementById("usernameInput").value;
+        username = document.getElementById("myText").value;
 
         document.getElementById("welcome").textContent = `Welcome, ${username}!`;
     }
