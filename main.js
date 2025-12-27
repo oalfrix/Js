@@ -158,7 +158,7 @@ console.log(name);
     console.log(multiply(7, 6)); // 42
 
 // Function with no parameters
-    function sayHello() {
+    function sayHello() { 
         return "Hello, World!";
     }
     console.log(sayHello()); // "Hello, World!"
@@ -175,16 +175,17 @@ console.log(name);
         return length * width;
     }
 
-// user input
-    const userName = prompt("Enter your name:");
-    console.log(`Hello, ${userName}!`);
-    const age = prompt("Enter your age:");
-    console.log(`You are ${age} years old.`);
+// logical operators
+    let x = 10;
+    let y = 5;
+    console.log(x > 5 && y < 10); // true
+    console.log(x < 5 || y < 10); // true
+    console.log(!(x > 5)); // false 
+    console.log(!(y < 10)); // false
 
-    let username;
+// Combining logical operators
+    console.log((x > 5 && y < 10) || (x < 5));  
+    // true because (x > 5 && y < 10) is true
 
-    document.getElementById("submitBtn").onclick = function() {
-        username = document.getElementById("myText").value;
-
-        document.getElementById("welcome").textContent = `Welcome, ${username}!`;
-    }
+    console.log((x < 5 || y > 10) && (x > 0)); 
+    // false because (x < 5 || y > 10) is false 
