@@ -15,7 +15,7 @@
     4. Cannot contain a space or an hyphen
     5. Default value of variables is undefined
 
-# 1 Data Types
+# Data Types
    1.1 Primitive Data Types/Value 
        - data is assigned directly to the variable
        - strings,number,boolean,undefined,null,symbols
