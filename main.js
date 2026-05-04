@@ -251,3 +251,11 @@ console.log(name);
     // ARRAY AND FUNCTIONS
     //    use .push to add to Array
     //    use .pop to delete last content from array
+        let users = ["John", "Max", "Matthew"]
+
+        function signup(user){
+            users.push(user)
+        }
+
+        signup("James")
+        console.log(users)  
