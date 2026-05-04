@@ -189,3 +189,16 @@ console.log(name);
 
     console.log((x < 5 || y > 10) && (x > 0)); 
     // false because (x < 5 || y > 10) is false 
+
+    // Else If
+        let price = 130
+
+        if (price < 10){
+        console.log("Cheaper")
+        }else if (price < 60){
+        console.log("Good Price")
+        }else if (price < 120){
+        console.log("fine")
+        }else{
+        console.log("Too high")
+        }
