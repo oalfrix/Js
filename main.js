@@ -221,10 +221,12 @@ console.log(name);
         }
 
     // Loop - Repeat code multiple time
-    // While Loop- Continue to execute code as long as condtion is met
+    // While Loop - Continue to execute code as long as condtion is met
        let count = 1
        
        while (count < 100){
         console.log(count)
         count = count + 1 
        }
+
+    //For Loop-  
