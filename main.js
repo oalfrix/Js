@@ -229,4 +229,9 @@ console.log(name);
         count = count + 1 
        }
 
-    //For Loop-  
+    //For Loop - continue to execute as long as a specified condition remains true
+    // Comines intialization,condition and increament in one line of code with a semicolon
+    
+    for(let count = 1; count <= 10; count ++){
+        console.log(count)
+    }

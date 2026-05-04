@@ -88,5 +88,5 @@
     - Declared by function keyword
     - Parenthesis are used to follow syntax
     - Curly Braces is the body of function
-    - Parameter is the name oth the function without the value
+    - Parameter is the input for the function
     - Arguement is the Value of the parameter
