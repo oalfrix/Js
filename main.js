@@ -261,3 +261,7 @@ console.log(name);
         console.log(users)
         
         // OBJECTS
+
+        let student ={
+            name: 
+        }
