@@ -214,4 +214,8 @@ console.log(name);
         if (isAdmin || isModerator){
             console.log("Grant Acess")
         }
-        
+      
+    // ! - not - true becomes false
+        if (!isLoggedIn){
+            console.log("Redirect To sigin")
+        }
