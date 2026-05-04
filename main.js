@@ -258,4 +258,6 @@ console.log(name);
         }
 
         signup("James")
-        console.log(users)  
+        console.log(users)
+        
+        // OBJECTS
