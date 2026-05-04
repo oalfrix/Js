@@ -244,6 +244,10 @@ console.log(name);
     //For Loop - continue to execute as long as a specified condition remains true
     // Comines intialization,condition and increament in one line of code with a semicolon
     
-    for(let count = 1; count <= 10; count ++){
-        console.log(count)
-    }
+        for(let count = 1; count <= 10; count ++){
+            console.log(count)
+        }
+
+    // ARRAY AND FUNCTIONS
+    //    use .push to add to Array
+    //    use .pop to delete last content from array
