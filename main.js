@@ -219,3 +219,7 @@ console.log(name);
         if (!isLoggedIn){
             console.log("Redirect To sigin")
         }
+
+    // Loop - Repeat code multiple time
+    // While Loop- Continue to execute code as long as condtion is met
+        
