@@ -175,6 +175,18 @@ console.log(name);
         return length * width;
     }
 
+    let Area = calculateArea(10, 22)
+    console.log(Area)
+
+
+    function addNumbers(num1, num2){
+         return num1 + num2
+    }
+
+    let result = addNumbers(6, 7)
+    console.log(result)
+       
+
 // logical operators
     let x = 10;
     let y = 5;
