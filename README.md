@@ -68,9 +68,9 @@
     - Less Than or equal to <=
     - Not Equal To !=
 
-    && - both sides must be true
-    || - at least one must be true
-    ! - flips true to false
+    && - and - both sides must be true
+    || - or - at least one must be true
+    ! - not - flips true to false
 
 # Strict Equality and Strict inequality
     - Strict Equality Checks if both data type and data are the same if not it gives FALSE

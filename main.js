@@ -202,3 +202,12 @@ console.log(name);
         }else{
         console.log("Too high")
         }
+
+    // && - and - both sides must be true
+        let age = 30
+
+        if (age >= 30 && hasTicket){
+            console.log("Access Granted")
+        }
+
+    
