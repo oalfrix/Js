@@ -204,10 +204,14 @@ console.log(name);
         }
 
     // && - and - both sides must be true
-        let age = 30
-
+        
         if (age >= 30 && hasTicket){
             console.log("Access Granted")
         }
 
-    
+    // || - or - at least one must be true
+
+        if (isAdmin || isModerator){
+            console.log("Grant Acess")
+        }
+        
