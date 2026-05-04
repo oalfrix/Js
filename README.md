@@ -68,6 +68,10 @@
     - Less Than or equal to <=
     - Not Equal To !=
 
+    && - both sides must be true
+    || - at least one must be true
+    ! - flips true to false
+
 # Strict Equality and Strict inequality
     - Strict Equality Checks if both data type and data are the same if not it gives FALSE
     - Strict Inequality checks if both the data type and data are not the same and it gives TRUE and FALSE if they are the same
