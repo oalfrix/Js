@@ -263,5 +263,10 @@ console.log(name);
         // OBJECTS
 
         let student ={
-            name: 
+            name: "James"
+            admin: 9059,
+            Form: 5,
+            isStudent: true
         }
+
+        console.log(student.name)
