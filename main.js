@@ -88,8 +88,8 @@ console.log(name);
         isStudent: false,
         address: {
             street: '123 Main St',
-            city: 'Wonderland'
-            phone: '123-456-7890'
+            city: 'Wonderland',
+            telephone: '123-456-7890'
         }
     };
 
