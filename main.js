@@ -264,7 +264,7 @@ console.log(name);
 
         let student ={
             name: "James"
-            admin: 9059,
+            adminNo: 9059,
             Form: 5,
             isStudent: true
         }
