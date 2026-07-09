@@ -92,4 +92,4 @@
     - Arguement is the Value of the parameter
 
 # Document Object Model
-    - Takes our html code and turns it to a tree like sturcture and each element becomes a node in the tree
+    - Takes our html code and turns it to a tree like sturcture and each element becomes a node in the tree ed use document.body to access the body node
