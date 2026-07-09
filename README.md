@@ -90,3 +90,6 @@
     - Curly Braces is the body of function
     - Parameter is the input for the function
     - Arguement is the Value of the parameter
+
+# Document Object Model
+    - Takes our html code and turns it to a tree like sturcture and each element becomes a node in the tree
